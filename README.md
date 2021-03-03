@@ -26,4 +26,4 @@ Steffany Candalaft Duram <br />
 #### Aviso legal
 
 As informações aqui contidas possuem caráter meramente de estudo. <br />
-<b>Este perfil não têm quaisquer vínculos com a empresa Natura Comercial LTDA.</b>
+<b>Este perfil não tem quaisquer vínculos com a empresa Natura Comercial LTDA.</b>

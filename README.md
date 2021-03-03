@@ -13,7 +13,7 @@ Este é um projeto desenvolvido pelos alunos do 5º semestre de Análise e Desen
 
 # Geral
 
-• <a href="/Tarefas.md">Tarefas</a>
+<h3><a href="/Tarefas.md">Tarefas</a></h3>
 
 ## Contato
 

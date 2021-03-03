@@ -12,3 +12,10 @@ Deverá ser elaborado o relatório do Projeto Integrado com enfoque em um diagn�
 - [ ] <b>b.</b> Descrever o organograma da empresa e da área de TI da empresa <img src="https://img.shields.io/badge/Respons%C3%A1vel-TODOS-critical"> <br />
 - [ ] <b>c.</b> Descrever os principais produtos e/ou serviços que a empresa oferece <img src="https://img.shields.io/badge/Respons%C3%A1vel-Michaelly-orange"> <br />
 - [ ] <b>d.</b> Explanar o papel da TI na empresa <img src="https://img.shields.io/badge/Respons%C3%A1vel-Bruno-blueviolet">
+
+#### Referências bibliográficas
+
+<b>a.</b> <br />
+<b>b.</b> <br />
+<b>c.</b> <br />
+<b>d.</b> <br />

@@ -11,6 +11,10 @@
 
 Este é um projeto desenvolvido pelos alunos do 5º semestre de Análise e Desenvolvimento de Sistemas da USCS.
 
+# Geral
+
+• <a href="/Tarefas.md">Tarefas</a>
+
 ## Contato
 
 E-mail: `natura.projeto@gmail.com`

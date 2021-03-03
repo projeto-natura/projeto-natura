@@ -16,7 +16,7 @@ Deverá ser elaborado o relatório do Projeto Integrado com enfoque em um diagn�
 #### Fontes / Referências bibliográficas
 
 <b>a.</b> <br />
-<b>b.</b> <br />
+<b>b.</b> <a href="https://rpe-gvces.s3.amazonaws.com/tmp/cache/pdf/a2e280dd/natura-cosmeticos.pdf">Inventário de emissões de gases de efeito estufa - Página 6</a> <br /> 
 <b>c.</b> <br />
 <b>d.</b> <a href="https://www.natura.com.br/inovacao">Inovação</a> <br />
           <a href="https://computerworld.com.br/acervo/mudancas-no-setor-de-ti-sao-reflexo-dos-tempos-atuais-diz-cio-da-natura/">Mudanças no setor de TI são reflexo dos tempos atuais, diz CIO da Natura

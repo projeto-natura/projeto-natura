@@ -14,6 +14,7 @@ Este é um projeto desenvolvido pelos alunos do 5º semestre de Análise e Desen
 ## Geral
 
 <h3><a href="/Tarefas.md">Tarefas</a></h3>
+<h3><a href="/Arquivos%20Externos.md">Arquivos Externos</a></h3>
 
 ## Contato
 
